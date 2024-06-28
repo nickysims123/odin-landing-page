@@ -4,9 +4,27 @@ body {
     flex-direction: column;
 }
 
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 
 
 .text-box img {
     height: 100px;
     width: 100px;
+}
+
+.header img {
+    height: 40px;
+    width: 80px;
+}
+
+.right img {
+    height: auto;
+    width: 300px;
 }
