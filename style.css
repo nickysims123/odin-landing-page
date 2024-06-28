@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.text-box img {
+    height: 100px;
+    width: 100px;
+}
